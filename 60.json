@@ -1,0 +1,11 @@
+{
+  "name": "13ed3",
+  "description": "equal-tempered 7 naturals 60 microtone",
+  "naturals": [20.0, 40.0, 60.0, 80.0, 100.0, 120.0, 140.0, 160.0, 180.0],
+  "accidentals": {
+    "SHARP": 10.0,
+    "FLAT": -10.0,
+    "SHARP2": 20.0,
+    "FLAT2": -20.0
+  }
+}
